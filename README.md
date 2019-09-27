@@ -5,7 +5,7 @@ Intially check extension of file either .pdf or .docx. Convert pdf or docx file 
 
 Convert to text: text.py
 
-Extraction
+Extractions,
 
 Name: name.py
 
