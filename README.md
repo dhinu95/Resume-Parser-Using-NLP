@@ -5,9 +5,14 @@ Intially check extension of file either .pdf or .docx. Convert pdf or docx file 
 
 Convert to text: text.py
 
-Extraction,
+Extraction
+
 Name: name.py
+
 Mobile Number: mbl_number.py
+
 Mail id: mail.py
+
 Qualification: qualification.py
+
 Technical Skills: skills.py
