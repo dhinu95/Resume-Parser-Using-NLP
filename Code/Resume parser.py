@@ -1,3 +1,9 @@
+## Use to upload files in Google colab
+#from google.colab import files
+#uploaded = files.upload()
+
+
+
 pip install docx2txt
 pip install pypdf2
 
