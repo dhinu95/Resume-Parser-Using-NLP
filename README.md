@@ -3,16 +3,11 @@
 
 Intially check extension of file either .pdf or .docx. Convert pdf or docx file content into text. Then using NLP-Spacy,nltk,. libraries extract Name, Mobile number, Mail id, Qualification, Technical Skills from resume.
 
-Convert to text: text.py
-
-Extractions,
-
-Name: name.py
-
-Mobile Number: mbl_number.py
-
-Mail id: mail.py
-
-Qualification: qualification.py
-
-Technical Skills: skills.py
+ 
+### .py files:
+* Extract text: text.py
+* Name: name.py
+* Mobile Number: mbl_number.py
+* Mail id: mail.py
+* Qualification: qualification.py
+* Technical Skills: skills.py
